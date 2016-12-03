@@ -1,0 +1,6 @@
+C:\Users\pho\Desktop\NopBai\CNPM\Unity\CNPM\CNPM\bin\Debug\CNPM.exe.config
+C:\Users\pho\Desktop\NopBai\CNPM\Unity\CNPM\CNPM\bin\Debug\CNPM.exe
+C:\Users\pho\Desktop\NopBai\CNPM\Unity\CNPM\CNPM\bin\Debug\CNPM.pdb
+C:\Users\pho\Desktop\NopBai\CNPM\Unity\CNPM\CNPM\obj\Debug\CNPM.csprojResolveAssemblyReference.cache
+C:\Users\pho\Desktop\NopBai\CNPM\Unity\CNPM\CNPM\obj\Debug\CNPM.exe
+C:\Users\pho\Desktop\NopBai\CNPM\Unity\CNPM\CNPM\obj\Debug\CNPM.pdb
